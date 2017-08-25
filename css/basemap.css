@@ -1,0 +1,46 @@
+.cls-1 {
+	fill: #ede8e2;
+}
+
+.cls-1, .cls-2, .cls-4, .cls-6 {
+	fill-rule: evenodd;
+}
+
+.cls-2, .cls3 {
+	fill: #b7ba9f;
+}
+
+.cls-4 {
+	fill: #fae4b7;
+}
+
+.cls-5, .cls-6 {
+	fill: none;
+}
+
+.cls-5 {
+	stroke: #6caac3;
+	stroke-linecap: square;
+	stroke-linejion: bevel;
+	stroke-width: 0.71px;
+}
+
+.cls-6 {
+	stroke: #8a8c8e;
+	stroke-miterlimit: 20;
+	stroke-width: 0.5px;
+}
+
+.cls-7 {
+	fill: #231f20;
+}
+
+.cls-8 {
+	font-size: 12px;
+	font-family: Myriad Pro;
+}
+
+#svg {
+	background-color: rgba(170, 170, 85, 0.9);
+	padding: 15px;
+}

@@ -1,0 +1,43 @@
+.st0 {
+	fill: none;
+}
+
+.st0 .st2 {
+	stroke: #000;
+	stroke-miterlimit: 10;
+} 
+
+.st3 {
+	font-size: 15px;
+	fill: gray;
+	font-family: 'Cinzel';
+}
+
+.st4 {
+	fill: #BC0900;
+	stroke: none;
+}
+
+.st4:hover {
+	fill: #600700;
+}
+
+h4 {
+	padding-bottom: 5px;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+}
+
+.psourceline, p.creditline {
+	font-size: 12px;
+	marginL 15px 0px 30px 0px;
+}
+
+p.creditline {
+	text-transform: uppercase;
+	float: right;
+}
+
+p.sourceline {
+	float: right;
+}

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>IDV J460 | Zhinan Yin</title>
+    	<meta charset="utf-8">
+    	<link href='https://fonts.googleapis.com/css?family=Cinzel:400,700,900|Coda|Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    	<link rel="stylesheet" href="css/style.css"> 	
+    	<style>
+    		ul#books li.book {
+    			width: 80px;
+    			height: 120px;
+    			background-color: orange;
+    			padding: 20px;
+    			display: inline-block;
+    			list-style-type: none;
+    			font: 18px 'Cinzel';
+    			font-weight: 900;
+    			text-align: center;
+    			margin-right: 15px;
+    			line-height: 15px;
+    			box-shadow: 3px 3px 3px gray;
+    			color: white;
+    		}
+    		
+    		button {
+				width: 100px;
+				height: 100px;
+				background-color: #738412;
+				border: none;
+				border-radius: 50px;
+				font: 12.5px Cinzel;
+				font-weight: 700;
+				font-style: italic;
+				box-shadow: 4px 4px 4px gray;
+				margin: 30px 0 50px 250px;
+			}
+
+			button:hover {
+				background-color: #0b213a;
+				color: white;
+			}
+
+			button:active {
+				position: relative;
+				top: 2px;
+				left: 2px;
+				box-shadow: 2px 2px 2px gray;
+				background-color: #663300;
+			}
+
+			button:focus {
+				outline: none;
+			}
+
+    		
+    	</style>
+    	<script src="js/jquery-2.2.1.min.js"></script>
+    	
+  	</head>
+  	<body>
+  		<header>
+  			<h1>IDV<span>460</span></h1>
+  			<p>Interactive Data Viz Spring 16</p>
+  			<h2>Zhinan Yin</h2>
+  		</header>
+  		
+  		<div id="page-wrap">
+  			<nav>
+  				<ul>
+  					<li><a href="index.html" >Home</a></li>
+  					<li><a href="class.html" class="active">Class</a></li>
+  					<li><a href="projects.html">Projects</a></li>
+  				</ul>
+  			</nav>
+  		
+  			<main>
+  			
+  			<h1>I love to read!</h1>
+  			<p>There is no greater pleasure than reading the world's greatest works of literature. please clock on all of the books below that you have already read.</p>
+  			<ul id="books">
+  				<li class="book">The Great Gatsby</li>
+  				<li class="book">Moby Dick</li>
+  				<li class="book">Animal Farm</li>
+  				<li class="book">Hamlet</li>
+  			</ul>	
+  			
+  			<button id="reader">Bring 'em all back!</button>
+  
+    			
+    		</main>
+    	</div>	<!-- close page-wrap -->
+    	
+    	<footer>
+    		<p class="logo">IDV<span>460</span></p>
+    		<p><a href="mailto:zhinyin@indiana.edu">zhinyin@indiana.edu</a></p>
+    	</footer>
+    	
+    	<script src="js/library.js"></script>
+  	</body>
+</html>

@@ -1,0 +1,159 @@
+/* -------------------- global -------------------- */
+
+* { margin: 0; padding: 0; }
+
+body {
+    font-family: 'Cinzel', serif;
+    color: #888888;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	font-weight: 900;
+	margin-bottom: 5px;
+}
+
+a {
+	color: #738412;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #996633;
+	text-decoration: underline;
+}
+
+p {
+	font-family: georgia serif;
+	margin-bottom: 15px;
+}
+
+.bio {
+	margin: 70px 0;
+}
+
+/* -------------------- header -------------------- */
+
+header {
+	background-color: black;
+	text-align: center;
+}
+header h1 {
+ 	color: white;
+ 	font-size: 6em;
+ 	letter-spacing: -0.05em;
+ }
+
+header h1 span, .logo span {
+    color: #738412;
+}
+
+header h2 {
+	background-color: #738412;
+	text-transform: uppercase;
+	color: white;
+	line-height: 1.5em;
+}
+
+header p {
+	font-size: 1.2em;
+	text-transform: uppercase;
+	position: relative;
+	top: -10px;
+	letter-spacing: 0.5em;
+}
+
+/* -------------------- structure -------------------- */
+
+#page-wrap {
+	width: 600px;
+	margin: 0 auto;
+}
+
+/* -------------------- nav -------------------- */
+
+nav {
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+	margin: 15px 0;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	width: 30%;
+	border-right: 1px solid #888;
+}
+
+nav ul li:last-child {
+	border-right: none;
+}
+
+nav ul li a {
+	color: #888;
+}
+
+nav ul li a:hover {
+	text-decoration: none;
+}
+
+nav ul li a.active {
+	border-bottom: 3px solid black;
+	color: black;
+}
+
+/* -------------------- footer -------------------- */
+
+footer {
+	text-align: center;
+	background-color: #BDC19C;
+	padding: 10px 0 30px 0;
+	margin-top: 30px;
+	clear: both;
+}
+
+.logo {
+	font-weight: 900;
+	font-size: 1.5em;
+	color: black;
+}
+
+
+/* -------------------- images -------------------- */
+
+figure.largeimage img {
+	width: 100%;
+	position: relative;
+}
+
+figcaption {
+	font-style: italic;
+	margin-bottom: 30px;
+}
+
+.list {
+	list-style-position: inside;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

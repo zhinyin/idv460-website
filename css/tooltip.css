@@ -1,0 +1,21 @@
+#tooltip-container {
+	position: absolute;
+	background-color: rgba(255,255,255,0.8);
+	box-shadow: 3px 3px 4px gray;
+	color: #444444;
+	font-size: 14px;
+	padding: 8px;
+	max-width: 300px;
+	/*top: 130px; -- used for static position of tooltip */
+	/*left: 40px; -- used for static position of tooltip */
+}
+
+.tooltip-html-source {
+	display: none;
+}
+
+#graphic {
+	/*position: relative; -- used for static position of tooltip */
+	/*outline: 5px solid black; -- used for static position of tooltip */
+}
+

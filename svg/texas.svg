@@ -1,0 +1,169 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1000" height="435.73" viewBox="0 0 1000 435.73">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+        font-family: Roboto;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 0 3;
+      }
+
+      .cls-5 {
+        fill: #7e99a0;
+      }
+    </style>
+  </defs>
+  <title>texas</title>
+  <line class="cls-1" y1="411.94" x2="999" y2="411.94"/>
+  <g>
+    <g>
+      <text class="cls-2" transform="translate(9.91 366.31)">5</text>
+      <text class="cls-2" transform="translate(1.49 315.82)">10</text>
+      <text class="cls-2" transform="translate(1.49 265.32)">15</text>
+      <text class="cls-2" transform="translate(1.49 214.82)">20</text>
+      <text class="cls-2" transform="translate(1.49 164.32)">25</text>
+      <text class="cls-2" transform="translate(1.49 113.83)">30</text>
+      <text class="cls-2" transform="translate(1.49 63.33)">35</text>
+      <text class="cls-2" transform="translate(1.49 12.83)">40</text>
+    </g>
+    <g>
+      <line class="cls-1" y1="411.94" x2="24.98" y2="411.94"/>
+      <g>
+        <line class="cls-3" x1="23.61" y1="361.45" x2="23.61" y2="361.45"/>
+        <line class="cls-4" x1="26.62" y1="361.45" x2="998" y2="361.45"/>
+        <line class="cls-3" x1="999.5" y1="361.45" x2="999.5" y2="361.45"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="23.61" y1="310.95" x2="23.61" y2="310.95"/>
+        <line class="cls-4" x1="26.62" y1="310.95" x2="998" y2="310.95"/>
+        <line class="cls-3" x1="999.5" y1="310.95" x2="999.5" y2="310.95"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="23.61" y1="260.45" x2="23.61" y2="260.45"/>
+        <line class="cls-4" x1="26.62" y1="260.45" x2="998" y2="260.45"/>
+        <line class="cls-3" x1="999.5" y1="260.45" x2="999.5" y2="260.45"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="23.61" y1="209.95" x2="23.61" y2="209.95"/>
+        <line class="cls-4" x1="26.62" y1="209.95" x2="998" y2="209.95"/>
+        <line class="cls-3" x1="999.5" y1="209.95" x2="999.5" y2="209.95"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="23.61" y1="159.46" x2="23.61" y2="159.46"/>
+        <line class="cls-4" x1="26.62" y1="159.46" x2="998" y2="159.46"/>
+        <line class="cls-3" x1="999.5" y1="159.46" x2="999.5" y2="159.46"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="23.61" y1="108.96" x2="23.61" y2="108.96"/>
+        <line class="cls-4" x1="26.62" y1="108.96" x2="998" y2="108.96"/>
+        <line class="cls-3" x1="999.5" y1="108.96" x2="999.5" y2="108.96"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="23.61" y1="58.46" x2="23.61" y2="58.46"/>
+        <line class="cls-4" x1="26.62" y1="58.46" x2="998" y2="58.46"/>
+        <line class="cls-3" x1="999.5" y1="58.46" x2="999.5" y2="58.46"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="23.61" y1="7.96" x2="23.61" y2="7.96"/>
+        <line class="cls-4" x1="26.62" y1="7.96" x2="998" y2="7.96"/>
+        <line class="cls-3" x1="999.5" y1="7.96" x2="999.5" y2="7.96"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <polygon class="cls-5" points="3.5 411.94 21.48 411.94 21.48 411.94 3.5 411.94 3.5 411.94"/>
+    <polygon class="cls-5" points="28.47 411.94 46.45 411.94 46.45 411.94 28.47 411.94 28.47 411.94"/>
+    <polygon class="cls-5" points="53.45 411.94 71.43 411.94 71.43 411.94 53.45 411.94 53.45 411.94"/>
+    <polygon class="cls-5" points="78.42 411.94 96.4 411.94 96.4 411.94 78.42 411.94 78.42 411.94"/>
+    <polygon class="cls-5" points="103.4 411.94 121.38 411.94 121.38 411.94 103.4 411.94 103.4 411.94"/>
+    <rect class="cls-5" x="128.37" y="401.84" width="17.98" height="10.1"/>
+    <polygon class="cls-5" points="153.35 411.94 171.33 411.94 171.33 411.94 153.35 411.94 153.35 411.94"/>
+    <rect class="cls-5" x="178.32" y="381.64" width="17.98" height="30.3"/>
+    <rect class="cls-5" x="203.3" y="351.35" width="17.98" height="60.6"/>
+    <rect class="cls-5" x="228.27" y="310.95" width="17.98" height="100.99"/>
+    <rect class="cls-5" x="253.25" y="351.35" width="17.98" height="60.6"/>
+    <rect class="cls-5" x="278.22" y="381.64" width="17.98" height="30.3"/>
+    <rect class="cls-5" x="303.2" y="371.54" width="17.98" height="40.4"/>
+    <rect class="cls-5" x="328.17" y="371.54" width="17.98" height="40.4"/>
+    <rect class="cls-5" x="353.15" y="361.45" width="17.98" height="50.5"/>
+    <rect class="cls-5" x="378.12" y="290.75" width="17.98" height="121.19"/>
+    <rect class="cls-5" x="403.1" y="240.25" width="17.98" height="171.69"/>
+    <rect class="cls-5" x="428.07" y="270.55" width="17.98" height="141.39"/>
+    <rect class="cls-5" x="453.05" y="220.05" width="17.98" height="191.89"/>
+    <rect class="cls-5" x="478.02" y="381.64" width="17.98" height="30.3"/>
+    <rect class="cls-5" x="503" y="38.26" width="17.98" height="373.68"/>
+    <rect class="cls-5" x="527.97" y="209.95" width="17.98" height="201.99"/>
+    <rect class="cls-5" x="552.95" y="58.46" width="17.98" height="353.48"/>
+    <rect class="cls-5" x="577.92" y="7.96" width="17.98" height="403.98"/>
+    <rect class="cls-5" x="602.9" y="240.25" width="17.98" height="171.69"/>
+    <rect class="cls-5" x="627.87" y="78.66" width="17.98" height="333.28"/>
+    <rect class="cls-5" x="652.85" y="169.55" width="17.98" height="242.39"/>
+    <rect class="cls-5" x="677.82" y="179.65" width="17.98" height="232.29"/>
+    <rect class="cls-5" x="702.8" y="220.05" width="17.98" height="191.89"/>
+    <rect class="cls-5" x="727.77" y="169.55" width="17.98" height="242.39"/>
+    <rect class="cls-5" x="752.75" y="149.36" width="17.98" height="262.59"/>
+    <rect class="cls-5" x="777.72" y="230.15" width="17.98" height="181.79"/>
+    <rect class="cls-5" x="802.7" y="169.55" width="17.98" height="242.39"/>
+    <rect class="cls-5" x="827.67" y="240.25" width="17.98" height="171.69"/>
+    <rect class="cls-5" x="852.65" y="280.65" width="17.98" height="131.29"/>
+    <rect class="cls-5" x="877.62" y="260.45" width="17.98" height="151.49"/>
+    <rect class="cls-5" x="902.6" y="250.35" width="17.98" height="161.59"/>
+    <rect class="cls-5" x="927.57" y="310.95" width="17.98" height="100.99"/>
+    <rect class="cls-5" x="952.55" y="280.65" width="17.98" height="131.29"/>
+    <rect class="cls-5" x="977.52" y="391.74" width="17.98" height="20.2"/>
+  </g>
+  <g>
+    <text class="cls-2" transform="translate(976.59 431.66)">’16</text>
+    <text class="cls-2" transform="translate(951.62 431.66)">’15</text>
+    <text class="cls-2" transform="translate(926.64 431.66)">’14</text>
+    <text class="cls-2" transform="translate(901.67 431.66)">’13</text>
+    <text class="cls-2" transform="translate(876.69 431.66)">’12</text>
+    <text class="cls-2" transform="translate(851.72 431.66)">’11</text>
+    <text class="cls-2" transform="translate(826.74 431.66)">’10</text>
+    <text class="cls-2" transform="translate(801.77 431.66)">’09</text>
+    <text class="cls-2" transform="translate(776.79 431.66)">’08</text>
+    <text class="cls-2" transform="translate(751.82 431.66)">’07</text>
+    <text class="cls-2" transform="translate(726.84 431.66)">’06</text>
+    <text class="cls-2" transform="translate(701.87 431.66)">’05</text>
+    <text class="cls-2" transform="translate(676.89 431.66)">’04</text>
+    <text class="cls-2" transform="translate(651.92 431.66)">’03</text>
+    <text class="cls-2" transform="translate(626.94 431.66)">’02</text>
+    <text class="cls-2" transform="translate(601.97 431.66)">’01</text>
+    <text class="cls-2" transform="translate(576.99 431.66)">’00</text>
+    <text class="cls-2" transform="translate(552.02 431.66)">’99</text>
+    <text class="cls-2" transform="translate(527.04 431.66)">’98</text>
+    <text class="cls-2" transform="translate(502.07 431.66)">’97</text>
+    <text class="cls-2" transform="translate(477.09 431.66)">’96</text>
+    <text class="cls-2" transform="translate(452.12 431.66)">’95</text>
+    <text class="cls-2" transform="translate(427.14 431.66)">’94</text>
+    <text class="cls-2" transform="translate(402.17 431.66)">’93</text>
+    <text class="cls-2" transform="translate(377.19 431.66)">’92</text>
+    <text class="cls-2" transform="translate(352.22 431.66)">’91</text>
+    <text class="cls-2" transform="translate(327.24 431.66)">’90</text>
+    <text class="cls-2" transform="translate(302.27 431.66)">’89</text>
+    <text class="cls-2" transform="translate(277.29 431.66)">’88</text>
+    <text class="cls-2" transform="translate(252.32 431.66)">’87</text>
+    <text class="cls-2" transform="translate(227.34 431.66)">’86</text>
+    <text class="cls-2" transform="translate(202.37 431.66)">’85</text>
+    <text class="cls-2" transform="translate(177.39 431.66)">’84</text>
+    <text class="cls-2" transform="translate(152.42 431.66)">’83</text>
+    <text class="cls-2" transform="translate(127.44 431.66)">’82</text>
+    <text class="cls-2" transform="translate(102.47 431.66)">’81</text>
+    <text class="cls-2" transform="translate(77.49 431.66)">’80</text>
+    <text class="cls-2" transform="translate(52.52 431.66)">’79</text>
+    <text class="cls-2" transform="translate(27.54 431.66)">’78</text>
+    <text class="cls-2" transform="translate(2.57 431.66)">’77</text>
+  </g>
+</svg>

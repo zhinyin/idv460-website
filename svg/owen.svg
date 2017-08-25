@@ -1,0 +1,99 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="520" height="430" viewBox="0 0 520 430">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 20.44px;
+        font-family: Candara;
+      }
+
+      .cls-3 {
+        fill: #7f5939;
+        stroke: #7f5939;
+      }
+    </style>
+  </defs>
+  <title>bar8</title>
+  <g>
+    <line class="cls-1" x1="66" y1="403.5" x2="488" y2="403.5"/>
+    <g>
+      <line class="cls-1" x1="65.5" y1="403" x2="65.5" y2="394"/>
+      <line class="cls-1" x1="93.5" y1="403" x2="93.5" y2="394"/>
+      <line class="cls-1" x1="122.5" y1="403" x2="122.5" y2="394"/>
+      <line class="cls-1" x1="150.5" y1="403" x2="150.5" y2="394"/>
+      <line class="cls-1" x1="178.5" y1="403" x2="178.5" y2="394"/>
+      <line class="cls-1" x1="206.5" y1="403" x2="206.5" y2="394"/>
+      <line class="cls-1" x1="234.5" y1="403" x2="234.5" y2="394"/>
+      <line class="cls-1" x1="262.5" y1="403" x2="262.5" y2="394"/>
+      <line class="cls-1" x1="291.5" y1="403" x2="291.5" y2="394"/>
+      <line class="cls-1" x1="319.5" y1="403" x2="319.5" y2="394"/>
+      <line class="cls-1" x1="347.5" y1="403" x2="347.5" y2="394"/>
+      <line class="cls-1" x1="375.5" y1="403" x2="375.5" y2="394"/>
+      <line class="cls-1" x1="403.5" y1="403" x2="403.5" y2="394"/>
+      <line class="cls-1" x1="431.5" y1="403" x2="431.5" y2="394"/>
+      <line class="cls-1" x1="460.5" y1="403" x2="460.5" y2="394"/>
+      <line class="cls-1" x1="488.5" y1="403" x2="488.5" y2="394"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <text class="cls-2" transform="translate(47.82 410.82)">0</text>
+      <text class="cls-2" transform="translate(26.55 336.51)">500</text>
+      <text class="cls-2" transform="translate(18.22 262.21)">1000</text>
+      <text class="cls-2" transform="translate(19.4 187.91)">1500</text>
+      <text class="cls-2" transform="translate(15.92 113.61)">2000</text>
+      <text class="cls-2" transform="translate(17.11 39.3)">2500</text>
+    </g>
+    <line class="cls-1" x1="65.5" y1="403" x2="65.5" y2="32"/>
+    <g>
+      <line class="cls-1" x1="66" y1="403.5" x2="76" y2="403.5"/>
+      <line class="cls-1" x1="66" y1="329.5" x2="76" y2="329.5"/>
+      <line class="cls-1" x1="66" y1="254.5" x2="76" y2="254.5"/>
+      <line class="cls-1" x1="66" y1="180.5" x2="76" y2="180.5"/>
+      <line class="cls-1" x1="66" y1="106.5" x2="76" y2="106.5"/>
+      <line class="cls-1" x1="66" y1="31.5" x2="76" y2="31.5"/>
+    </g>
+  </g>
+  <g>
+    <polygon class="cls-3" points="69.6 403.5 89.89 403.5 89.89 403.5 69.6 403.5 69.6 403.5"/>
+    <rect class="cls-3" x="97.5" y="329.5" width="21" height="74"/>
+    <polygon class="cls-3" points="125.96 403.5 146.25 403.5 146.25 403.5 125.96 403.5 125.96 403.5"/>
+    <polygon class="cls-3" points="154.14 403.5 174.43 403.5 174.43 403.5 154.14 403.5 154.14 403.5"/>
+    <polygon class="cls-3" points="182.32 403.5 202.6 403.5 202.6 403.5 182.32 403.5 182.32 403.5"/>
+    <rect class="cls-3" x="210.5" y="342.5" width="20" height="61"/>
+    <polygon class="cls-3" points="238.68 403.5 258.96 403.5 258.96 403.5 238.68 403.5 238.68 403.5"/>
+    <polygon class="cls-3" points="266.86 403.5 287.14 403.5 287.14 403.5 266.86 403.5 266.86 403.5"/>
+    <rect class="cls-3" x="295.5" y="62.5" width="20" height="341"/>
+    <polygon class="cls-3" points="323.21 403.5 343.5 403.5 343.5 403.5 323.21 403.5 323.21 403.5"/>
+    <polygon class="cls-3" points="351.39 403.5 371.68 403.5 371.68 403.5 351.39 403.5 351.39 403.5"/>
+    <rect class="cls-3" x="379.5" y="341.5" width="20" height="62"/>
+    <polygon class="cls-3" points="407.75 403.5 428.04 403.5 428.04 403.5 407.75 403.5 407.75 403.5"/>
+    <polygon class="cls-3" points="435.93 403.5 456.22 403.5 456.22 403.5 435.93 403.5 435.93 403.5"/>
+    <polygon class="cls-3" points="464.11 403.5 484.4 403.5 484.4 403.5 464.11 403.5 464.11 403.5"/>
+  </g>
+  <g>
+    <text class="cls-2" transform="translate(460.67 424.05)">15<tspan x="17.19" y="0">&apos;</tspan><tspan x="21.98" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(432.06 424.05)">14<tspan x="18.04" y="0">&apos;</tspan><tspan x="22.83" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(404.37 424.05)">13<tspan x="17.08" y="0">&apos;</tspan><tspan x="21.87" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(376.43 424.05)">12<tspan x="16.59" y="0">&apos;</tspan><tspan x="21.38" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(349.4 424.05)">11<tspan x="14.29" y="0">&apos;</tspan><tspan x="19.08" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(319.18 424.05)">10<tspan x="18.37" y="0">&apos;</tspan><tspan x="23.17" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(288.97 424.05)">09<tspan x="22.44" y="0">&apos;</tspan><tspan x="27.23" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(260.77 424.05)">08<tspan x="22.48" y="0">&apos;</tspan><tspan x="27.27" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(233.38 424.05)">07<tspan x="20.89" y="0">&apos;</tspan><tspan x="25.68" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(204.39 424.05)">06<tspan x="22.51" y="0">&apos;</tspan><tspan x="27.3" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(176.83 424.05)">05<tspan x="21.27" y="0">&apos;</tspan><tspan x="26.06" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(148.22 424.05)">04<tspan x="22.13" y="0">&apos;</tspan><tspan x="26.92" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(122.92 424.05)">03&apos;</text>
+    <text class="cls-2" transform="translate(92.59 424.05)">02<tspan x="20.67" y="0">&apos;</tspan><tspan x="25.46" y="0">&apos;</tspan></text>
+    <text class="cls-2" transform="translate(65.56 424.05)">01<tspan x="18.37" y="0">&apos;</tspan><tspan x="23.16" y="0">&apos;</tspan></text>
+  </g>
+</svg>

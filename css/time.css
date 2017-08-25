@@ -1,0 +1,57 @@
+body {
+	text-align: center;
+}
+
+#bg {
+width: 100%;
+background-size: cover;
+}
+
+#page-wrap {
+	padding-bottom: 30px;
+}
+
+h1 {
+	font-size: 4em;
+}
+
+h3 {
+	margin-top: 30px;
+}
+
+.timebutton {
+	text-transform: uppercase;
+	width: 200px;
+	height: 2.5em;
+	border :2px solid black;
+	border-radius: 1.25em;
+}
+
+.timebutton:focus {
+	outline: none;
+}
+
+.timebutton:hover {
+	
+}
+
+p#current {
+	font-family: "Cinzel";
+	font-size: 2em;
+}
+
+p#current span {
+	color: white;
+	padding: 5px;
+	background-color: black;
+	margin: 0 3px;
+}
+
+nav {
+	margin-top: 0;
+	padding-top: 15px;
+}
+
+footer {
+	margin-top: 0;
+}

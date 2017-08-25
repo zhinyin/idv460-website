@@ -1,0 +1,195 @@
+/* ---------------- header rules ------------------- */
+
+
+h1 {
+	font-size: 30px;
+	color: #7f5939;
+}
+
+.logging {
+	font-size: 30px;
+	color: #7f5939;
+	margin: 70px 0px 50px 0px;
+}
+
+#page-wrap {
+	position: relative;
+	background-color: white;
+	width: 100%;
+}
+
+main {
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+h2 {
+	color: #004b66;
+	font-size: 1.8em;
+	padding-top: 30px;
+}
+
+p {
+	font-family: 'candara';
+	font-size: 17px;
+	color: #777;
+	margin-top: 18px;
+}
+
+p.byline {
+	font-weight: 700;
+	color: black;
+}
+
+
+li {
+	font-family: 'candara';
+	font-size: 18px;
+	margin: 10px 20px 10px 20px;
+	color: #555;
+}
+
+h4 {
+	font-family: 'candara';
+	font-size: 24px;
+	color: #666;
+}
+
+.facts {
+	margin: 50px;
+}
+
+.map {
+	margin: 70px 0 100px 50px;;
+}
+
+
+.name {
+	font-family: 'candara';
+	font-size: 24px;
+	color: #666633;
+}
+
+.address, .tel {
+	font-family: 'candara';
+	font-size: 16px;
+	color: #888844;
+}
+
+.intro {
+	font-family: 'candara';
+	font-size: 14px;
+}
+
+.cls-8:hover {
+	fill: #805500;
+}
+
+.info {
+	font-family: 'candara';
+	font-size: 20px;
+	color: #888844;
+}
+
+#sala {
+	font-family: 'candara';
+	font-size: 20px;
+	color: #7f5939;
+}
+/* ---------------- header rules ------------------- */
+
+header h3 {
+	color: #bf8040;
+	font-size: 3em;
+	font-family: 'Cinzel', serif;
+	text-transform: uppercase;
+	line-height: 2em;
+}
+
+header h3 #tree {
+	color: #888844;
+	padding-left: 20px;
+}
+
+header h3 #logging {
+	color: #7f5939;
+	padding-right: 20px;
+}
+
+header h1, header h2, header p {
+	display: none;
+}
+
+header {
+	background-color: white;
+}
+
+
+/* ------------- rotator rules ----------------------- */
+
+#wrapper {
+	position: relative;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#rotator {
+	width: 100%;
+	height: 300px;
+}
+
+#rotator div {
+	position: absolute;
+	z-index: 0;
+}
+
+#rotator div.current {
+	z-index: 2;
+}
+
+#rotator div.previous {
+	z-index: 1;
+}
+
+#rotator div p {
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	font: 40px 'candara';
+	color: white;
+	text-shadow: 3px 3px 3px black;
+	opacity: 0.7;
+}
+
+
+#credit {
+	margin-left: 725px;
+}
+
+#back {
+	margin: 30px 0px 0px 450px;
+	font-size: 20px;
+	color: #888844;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

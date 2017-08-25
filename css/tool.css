@@ -1,0 +1,111 @@
+#click {
+	font-size: 18px;
+	float: right;
+	margin: 5px 5px 50px 100px;
+}
+
+#tooltip-container {
+	position: absolute;
+	top: 20px;
+	right: -200px;
+	background-color: rgba(255,255,255,0.8);
+	box-shadow: 3px 3px 4px gray;
+	color: #444444;
+	font-size: 14px;
+	padding: 8px;
+	max-width: 500px;
+	/*top: 130px; -- used for static position of tooltip */
+	/*left: 40px; -- used for static position of tooltip */
+}
+
+.tooltip-html-source {
+	display: none;
+}
+
+#graphic {
+	/*position: relative; -- used for static position of tooltip */
+	/*outline: 5px solid black; -- used for static position of tooltip */
+}
+
+#map {
+ 	position: relative;
+}
+
+.chart-html-source {
+	display: none;
+}
+
+#chart-container {
+	position: absolute; 
+	top: 0px;
+	left: 100px;
+	background-color: #60401f;
+	box-shadow: 3px 3px 4px gray;
+	color: white;
+	font-size: 14px;
+	padding: 5px 15px;
+	width: 150px;
+	/*top: 130px; -- used for static position of chart */
+	/*left: 40px; -- used for static position of chart */
+}
+
+.chart {
+	position: relative;
+}
+
+.year {
+	font-weight: bold;
+	color: white;
+}
+
+.year span {
+	font-weight: normal;
+}
+
+.timeline-html-source {
+	display: none;
+}
+
+#timeline-container {
+	position: absolute; 
+	top: -90px;
+	left: 800px;
+	background-color: #60401f;
+	color: white;
+	box-shadow: 3px 3px 4px gray;
+	font-size: 14px;
+	padding: 5px 15px;
+	width: 150px;
+	
+}
+
+.timeline {
+	position: relative;
+	left: -100px;
+	margin: 50px 0px 40px 0px;
+}
+
+.linegraph-html-source {
+	display: none;
+}
+
+#linegraph-container {
+	position: absolute; 
+	top: 70px;
+	left: 1150px;
+	background-color: #60401f;
+	box-shadow: 3px 3px 4px gray;
+	color: white;
+	font-size: 14px;
+	padding: 5px 15px;
+	width: 150px;
+	
+}
+
+.linegraph {
+	position: relative;
+	text-align: center;
+}
+
+
+

@@ -1,0 +1,110 @@
+header h2 {
+	display: none;
+}
+
+header {
+	background: url(../images/deluna.jpg) black;
+	width: 100%;
+	background-size: cover;
+	height: 500px;
+	position: fixed;
+	top: 0;
+}
+
+header h1 {
+	position: relative;
+	top: 40%;
+	font-size: 7.5em;
+	text-transform: uppercase;
+	opacity: 0.7;
+	text-shadow: 4px 4px 4px black;
+	line-height: 0.75em;
+}
+
+header h1:hover {
+	font-size: 10em;
+	transition: linear 0.5s;
+	transform: translate(0,100px);
+}
+
+header p {
+	position: absolute;
+	top: 3%;
+	margin: 0 auto;
+	width: 100%;
+}
+
+header p a {
+	color: rgba(0,0,0,0.7);
+}
+
+header p a:hover {
+	text-decoration: none:
+}
+
+#page-wrap {
+	position: relative;
+	top: 500px;
+	background-color: white;
+	width: 100%
+}
+
+main {
+	width: 600px;
+	margin: 0 auto;
+}
+
+h2 {
+	font-size: 1.8em;
+	padding-top: 30px;
+}
+
+p.byline {
+	font-weight: 700;
+	color: black;
+}
+
+.widegraphic {
+	width: 1000px;
+	position: relative;
+	left: -200px;
+	border-top: 1px solid gray;
+	margin-top: 30px;
+}
+
+.widegraphic h5 {
+	text-transform: uppercase;
+	font-size: 1em;
+	margin-bottom: 15px;
+}
+
+.widegraphic p.source {
+	font-size: 0.8em;
+	text-transform: uppercase;
+	margin-top: 15px;
+}
+ 
+li {
+	font-family: georgia serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

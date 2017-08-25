@@ -1,0 +1,114 @@
+header h2 {
+	display: none;
+}
+
+header {
+	background: url(../images/water.jpg) black;
+	width: 100%;
+	background-size: cover;
+	height: 500px;
+	position: fixed;
+	top: 0;
+}
+
+header h1 {
+	position: relative;
+	top: 40%;
+	font-size: 7.5em;
+	text-transform: uppercase;
+	opacity: 0.7;
+	text-shadow: 4px 4px 4px black;
+	line-height: 0.75em;
+}
+
+header h1:hover {
+	font-size: 10em;
+	transition: linear 0.5s;
+	transform: translate(0,100px);
+}
+
+header p {
+	position: absolute;
+	top: 3%;
+	margin: 0 auto;
+	width: 100%;
+}
+
+header p a {
+	color: rgba(0,0,0,0.7);
+}
+
+header p a:hover {
+	text-decoration: none:
+}
+
+#page-wrap {
+	position: relative;
+	top: 500px;
+	background-color: white;
+	width: 100%;
+}
+
+main {
+	width: 800px;
+	margin: 0 auto;
+}
+
+h2 {
+	color: #004b66;
+	font-size: 1.8em;
+	padding-top: 30px;
+}
+
+p {
+	font-family: georgia;
+	font-size: 17px;
+	color: rgba(0, 94, 128, 0.7);
+	margin-top: 18px;
+}
+
+p.byline {
+	font-weight: 700;
+	color: black;
+}
+
+.water {
+	width: 800px;
+	position: relative;
+	border-top: 1px solid gray;
+	margin-top: 70px;
+	margin-bottom: 130px;
+}
+
+li {
+	font-family: Cambria;
+	font-size: 18px;
+	margin: 10px 20px 10px 20px;
+	color: #555;
+}
+
+h4 {
+	font-family: Cambria;
+	font-size: 24px;
+	color: #666;
+}
+
+.facts {
+	margin: 50px;
+}
+
+.map {
+	margin: 70px 0 100px 50px;;
+}
+
+
+
+
+
+
+
+
+
+
+
+
